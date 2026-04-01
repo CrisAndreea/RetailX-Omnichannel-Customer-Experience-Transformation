@@ -1,2 +1,4 @@
 # RetailX-Omnichannel-Customer-Experience-Transformation
-Proiectul RetailX Omnichannel Customer Experience Transformation are ca obiectiv digitalizarea experienței clienților prin dezvoltarea unei platforme integrate (website și aplicație mobilă), care conectează canalele fizice și online ale companiei.
+Proiectul are ca scop digitalizarea experienței clienților prin dezvoltarea unei platforme integrate (website și aplicație mobilă), care conectează canalele fizice și online ale companiei fictive RetailX. Soluția propusă urmărește creșterea satisfacției și loialității clienților, personalizarea interacțiunilor și optimizarea proceselor interne prin integrarea datelor în timp real și automatizarea fluxurilor operaționale.
+
+În cadrul proiectului, am avut rolul de Business Analyst și am fost responsabilă de colectarea și analiza cerințelor, crearea matricei de trasabilitate a cerințelor și documentarea user stories. De asemenea, am contribuit la analizele strategice (ex: PESTLE, POPIT, AS-IS) și am facilitat comunicarea cu restul echipei.
